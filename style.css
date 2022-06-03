@@ -64,6 +64,10 @@
 
 .image-section{
     
+    background-image:url("/images/header.png");
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
     width: 50%;
     
 
