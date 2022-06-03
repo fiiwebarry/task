@@ -64,7 +64,7 @@
 
 .image-section{
     
-    background-image:url("/images/header.png");
+    background-image:url("./images/header.png");
     background-position:center;
     background-size:cover;
     background-repeat:no-repeat;
@@ -446,7 +446,7 @@ padding: 2px;
 }
 .image-holder{
     width:50%;
-    background-image: url(/images/pic2.png);
+    background-image: url("./images/pic2.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -457,7 +457,7 @@ padding: 2px;
 }
 .image-holder2{
     width:50%;
-    background-image: url(/images/pic.png);
+    background-image: url("./images/pic.png");
     background-size: cover;
     background-position: center;
     
