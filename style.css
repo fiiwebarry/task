@@ -758,7 +758,7 @@ text-align: left;
    padding-bottom: 30px;
    text-align: center;
    padding-top: 15px;
-   letter-spacing: o.1em;
+   letter-spacing: 0.1em;
    float: right;
 }
 .auto-left{
@@ -1071,12 +1071,21 @@ text-align: left;
     width: 100%;
 }
 .process h2{
-    font-size: 70px;
+    font-size: 40px;
     padding:0px;
     width:100%;
     margin:auto;
     
     
+}
+.full-service{
+    font-size:32px;
+}
+.process h2 {
+    font-size: 40px;
+}
+.process2 h3 {
+    font-size: 20px;
 }
 .page-containers .right-sections 
 {
@@ -1180,7 +1189,22 @@ text-align: left;
         width:80%;
 
     }
-    
+    .text-section h1 {
+        font-size: 40px
+    }
+    .content1-section h3 {
+        font-family: Manrope;
+        font-size: 35px;
+        font-weight: 800;
+            line-height: 40px;
+        }
+            .content2-section h3 
+            {
+                font-family: Manrope;
+                font-size: 30px;
+                font-weight: 800;
+                line-height: 40px
+            }
 
     .text-section, .image-section{
           width:50%;
